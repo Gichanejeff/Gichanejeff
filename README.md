@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gichanejeff
-- 👀 I’m interested in C++
-- 🌱 I’m currently homestudying
-- 💞️ I’m looking to collaborate on C++ forums or discussion groups
+- 👀 I’m interested in web development and programming in general
+- 🌱 I’m currently selfstudying
+- 💞️ I’m looking to collaborate on informative forums or discussion groups
 
 
 <!---
